@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "454807094104",
+    "project_id": "boulder-fm",
+    "storage_bucket": "boulder-fm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454807094104:android:6537dceae5c569bb0e9b2d",
+        "android_client_info": {
+          "package_name": "edu.colorado.ooad.ooad_final_project_fall21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454807094104-2mnotdfigfaovjgo1e6bmvsirc85doko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQa5mwGweuJaqqqMmjBj9VlC01k3c6VIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454807094104-2mnotdfigfaovjgo1e6bmvsirc85doko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "454807094104-ooqkjjuri61tmn20hjke9tslpse0ojm6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.colorado.ooad.ooadFinalProjectFall21"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
